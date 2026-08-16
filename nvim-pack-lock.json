@@ -12,9 +12,21 @@
       "rev": "9948359e1536b4171615f7280e61e17620e3fd45",
       "src": "https://github.com/ramojus/mellifluous.nvim"
     },
+    "mini.files": {
+      "rev": "a249438d15fa6f64085ba83a9d1794d726aaf5ad",
+      "src": "https://github.com/nvim-mini/mini.files"
+    },
+    "mini.fuzzy": {
+      "rev": "27dfc14dd4fd7a914a81ee59890a15156e5b4225",
+      "src": "https://github.com/nvim-mini/mini.fuzzy"
+    },
     "mini.icons": {
       "rev": "bac6317300e205335df425296570d84322730067",
       "src": "https://github.com/nvim-mini/mini.icons"
+    },
+    "mini.pairs": {
+      "rev": "b1c5a726921b7a8c9321e9a7a208aa0571de5810",
+      "src": "https://github.com/nvim-mini/mini.pairs"
     },
     "mini.pick": {
       "rev": "7c0a674f620ddc701903b887b2dade836b23ea79",
@@ -35,6 +47,10 @@
     "oxocarbon.nvim": {
       "rev": "a7ba74849a00546a311f8c146320b433900393e7",
       "src": "https://github.com/nyoom-engineering/oxocarbon.nvim"
+    },
+    "rose-pine": {
+      "rev": "ff483051a47e27d84bdef47703538df1ed9f4a47",
+      "src": "https://github.com/rose-pine/neovim"
     },
     "tokyonight.nvim": {
       "rev": "5da1b76e64daf4c5d410f06bcb6b9cb640da7dfd",

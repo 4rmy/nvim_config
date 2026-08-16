@@ -12,5 +12,8 @@ for _, file in ipairs(plugin_files) do
     require("plugins." .. name)
 end
 
+require("netrw")
 require("colors")
 require("keymaps")
+require("pragma")
+
